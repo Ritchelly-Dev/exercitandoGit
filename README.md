@@ -1,1 +1,1 @@
-# exercitandoGit
+# exercitando-git
